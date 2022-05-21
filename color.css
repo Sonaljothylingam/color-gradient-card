@@ -43,7 +43,7 @@
             .gradient5{
                 left:5%;
                 width:400px;
-                height: 200px;
+               height: 200px;
                 background:linear-gradient( to bottom right, blue,white,black);
                 position:absolute;
                 border-radius:10px ;
